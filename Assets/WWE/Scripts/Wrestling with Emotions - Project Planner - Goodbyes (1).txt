@@ -1,0 +1,133 @@
+Visuals:	Character:	Section:	Text:	Date response	Player responses:	Points
+						
+Date 1:	Arms	Neutral		Bye dude.	Later Arminator!	3
+		Positive:	Funky	It's been a funky experience!	See you never Arms.	-3
+			Mystery	You're a mystery I'd love to solve!	Alarms Arms! Love is in the air!	5
+			Unstoppable	Let's get to gether in the ring Unstoppable!		
+			Avenging	Well, you can avenge me anytime!		
+						
+		Negative:	Funky	Well, you sure smell funky.		
+			Mystery	You're a mystery I'd hate to solve.		
+			Unstoppable	Stop!... You're clearly not unstoppable.		
+			Avenging	Please don't ever avenge me.		
+						
+						
+Date 2:	Mr Piggy	Neutral		Move along!	I'll never oink you! 	-3
+		Positive:	Death	This is the start of a deadly relationship!	Later Baconator!	-1
+			Psycho	i've been looking for a psycho just like you!	 Put me away officer!	3
+			Mega	You're a Mega-man! Oink! Oink!		
+			Mewing	Sorry kitty! I'm gonna have to take you in!		
+						
+		Negative:	Death	Death? You're a joke!		
+			Psycho	pyschos like you make me sick!		
+			Mega	Get out of my face Mega Dork		
+			Mewing	Scram cat!		
+						
+						
+Date 3:	King Pretty Guy	Neutral		Farewell.	Until we meet again Sire.	2
+		Positive	Mrs	Well Madame! It has been a lark!	Begone false king!	-3
+			Mr	Kind sir, I wish to feel your embrace soon!	Till next time my Pretty!	4
+			Captain	Steer us together Captain!		
+			Dr	When should I see you again Doctor?		
+			Sergeant	Let's go to war Sergeant!		
+		Negative	Mrs	Farewell Madame!		
+			Mr	Farewell Kind Sir!		
+			Captain	Steer clear of me Captain.		
+			Dr	I think medicine is a lie Doctor.		
+			Sergent	Blow yourself up Sergeant.		
+						
+Date 4:	 Radical Ray	Neutral		Smell ya later!	Later Radenator!	4
+		Positive	Biker	Vroom vroom! Let's go Biker!	Smell you never!	-2
+			Dad	Rad and Dad?! What a combo!	Any day Rad Ray!	2
+			Bro	Us bros gotta stick brogether Bro!		
+			Chap	This was a special moment Chap!		
+			Master	Damn Master! You mad, bad and rad!		
+		Negative	Biker	Wreck yourself before you check yourself Biker!		
+			Dad	Rads and Dads just don't mix stupid!		
+			Bro	Go Bro yourself.		
+			Chap	Sorry Chap dude, it will never work.		
+			Master	Random eighties slang Master!		
+						
+Date 5:	Señor Murder	Neutral		Adiós.	Later Murderator!	1
+		Positive:	Funky	Your funk entrigues me!	This has been unpleasant.	-2
+			Mystery	We should be together! It's no mystery to me!	No puedo esperar para sentir su abrazo !	5
+			Unstoppable	What happens when death and an unstoppable man meet?		
+			Avenging	The Avenger and the Murderer? This could work!		
+						
+		Negative:	Funky	What ever funky man.		
+			Mystery	You can keep your mystery to yourself		
+			Unstoppable	You're unstoppably ignorant		
+			Avenging	You don't even know the meaning of vengeance!		
+						
+						
+Date 6:	The Bare Bear 	Neutral		You're bearable	Later Bearenator!	2
+		Positive:	Death	I can tell you'll be the death of me!	Scram Furball!	-2
+			Psycho	I hope you like the taste of another man's sweat Psycho!	Till next time my pet!	5
+			Mega	Lets get Mega sweaty together!		
+			Mewing	You're one wild cat! I look forward to taming you!		
+						
+		Negative:	Death	You call yourself Death? Well you muscles certainly look at atrophied.		
+			Psycho	You're a waste of testosterone Phycho.		
+			Mega	Mega, you don't deserve to taste my sweat.		
+			Mewing	I've seen scarier cats on my niece's computer box.		
+						
+						
+Date 7:	Da Dweeb	Neutral		Farewell.	Later Dweebenator!	1
+		Positive	Mrs	It's been a pleasure ma'am!	May I never witness your vile visage again!	-4
+			Mr	Mr, you can call me anytime!	Imma learn you about love!	-2
+			Captain	Until next time Captain!		
+			Dr	Check up on me anytime Doctor!		
+			Sergeant	Take me to war Sergeant!		
+		Negative	Mrs	See you never Mrs Ugly!		
+			Mr	See you never Mr Ugly!		
+			Captain	I'll bust a cap in yo face Captain!		
+			Dr	See you never Dr Dork!		
+			Sergeant	What is your major malfunction Sergeant?		
+						
+Date 8:	Freakshow	Neutral		Bork bork!	Later Freakenator!	3
+		Positive	Biker	Wwwvorom wvroom! Ledsgo Bika!	You disgust me!	-2
+			Dad	Bye bye Daddy!	You make all my dreams come true!	5
+			Bro	Blerk bubba Broghgh!		
+			Chap	Wonderful to meet a gentleman at last!		
+			Master	Show me your ways Master!		
+		Negative	Biker	Ride yourself Biker!		
+			Dad	You are not Father		
+			Bro	No Bro. Just... no.		
+			Chap	Chlurp? Chaff? Chap?		
+			Master	You not Master! WHERE MASTER?		
+						
+Date 9:	Stoney	Neutral		Bye.	Later Stoneynator!	1
+		Positive:	Mrs	Well Mrs, I'd love to be your Mr!	Beat it before I smash you to bits!	-1
+			Mr	Well Mr, I'd love to be your Mrs!	I want you to be my one and stonely!	5
+			Captain	Let's set sail Captain!		
+			Dr	Care to examine The People's Croissant Doc?		
+			Sergeant	I'll make a lover of you Sergeant!		
+		Negative:	Mrs	I hate you Mrs!		
+			Mr	I hate you Mr!		
+			Captain	I hate you Cappy!		
+			Dr	I hate you Doctoro!		
+			Sergeant	I hate you Sergeant!		
+						
+Date 10:	Senor Sunshine	Neutral		Bye bye!	Later Sunshinenator!	1
+		Positive	Death	Death and Sunshine; an unlikely match!	See you soon cutey!	5
+			Psycho	I'm crazy about you Psycho!	Wrestling is for real men! Get lost cutey!	-1
+			Mega	You're Mega cute!		
+			Mewing	Let's mew it!		
+						
+		Negative	Death	Puck off and die Death!		
+			Psycho	I'm not crazy about you Psycho!		
+			Mega	You're mega lame!		
+			Mewing	Sorry mewing, there's only space for one cat in the ring!		
+						
+						
+Date 11:	Jake the Gerbil	Neutral		Goodbye human.	Later Gerbilator!	1
+		Positive	Biker	Take me for a spin sometime biker!	Get that rat out of my face!	-1
+			Dad	May our moustache's meet again!	You make me shake Jake!	5
+			Bro	I gotta go bro!		
+			Chap	For a man with a little 'tache, you're okay Chap!		
+			Master	I think you can handle my handlebar Master!		
+		Negative	Biker	Get on your bike and get lost!		
+			Dad	You make me want to run away from home Dad!		
+			Bro	Hell no Bro!		
+			Chap	I'll bite you Chap!		
+			Master	Beat it Master! I need a man with a real 'tache!		

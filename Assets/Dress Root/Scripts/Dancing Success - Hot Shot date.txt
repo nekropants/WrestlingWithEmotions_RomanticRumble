@@ -1,0 +1,25 @@
+Greeting:	
+Player option:	Date response:
+Hey.	Heya
+Sup?	Sup with you, lol!
+Hot Shot right?	That's me!
+Offer:	
+Yeah... would you like a drink?	Thanks! Booze! My favourite!
+...	I love your beard!
+This place is pretty loud...	TELL ME ABOUT IT!
+Compliment:	
+I like your hair.	It's a wig, but thanks anyway.
+Your makeup is awesome.	Thaaaanks! *blush*
+You're so friendly!	Why wouldn't I be?
+Date question:	
+Came here alone. Hoping to meet some cool people.	Where are you're home slices at?
+I have friends! Lots of friends!	
+Actually... I have no friends... At all.	
+Song changes:	
+Uggh! This song is the worst!	Ahh! I love this song!
+What's with this music?	Ahh! I love this song!
+Wanna find someplace quieter?	Ahh! I love this song!
+Dance?	
+Pass	Disallowed! Lets Go!
+This really isn't my jam	Come on! I'll show you how its done!
+Uh.. Sure...	Whoooh!

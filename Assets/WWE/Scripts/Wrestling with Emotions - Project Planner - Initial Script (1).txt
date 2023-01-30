@@ -1,0 +1,128 @@
+Visuals:	Character:	Section:	Text:	Responses	Date response:	Points
+Title screen	NA		Wrestling with Emotions: Quest for the perfect match			
+						
+Intro screen	Manny McMan	Intro:	Good evening everybody! I'm your host; MC Manny McMan!	Well you've seen all of the dreamy options! 		
+			Get ready for the ride of your life, as you speed date your way through 8 fighters in your quest for the perfect match!	Now It's time to choose your favourites!		
+			Will you find the opponent of your dreams? 	Its a tough choice! But remember: you can only choose three!		
+			Or leave the ring unsatisfied? 	Fantastic! Now lets see what your dates think of you!		
+			Let's find out!	Looks like we have a match!!		
+			Welcome! To Wrestling with Emotions! 			
+						
+						
+Date 1:	Arms	Intro:	Drop what you're doing! The Arms are in the house!	Hi Arms!		1
+				It's a true honour.		2
+				Arms? More like twigs! 		0
+	Arms	Question:	What would you do if I had your head between my legs?	Find something good to bite.	Oooh! You like it dirty huh?!	1
+				Unpossible. No legs can hold my head.	What the hell?! Don't dis' the legs man!	0
+				Break some legs to see some eggs.	Haha! Sound like fun!	2
+	Player:	Question:	What do you look for in an opponent?	Muscles! Muscles! Muscles!... And nice eyes.		
+			If you could see me in anything, what would it be?	Pink spandex leotard, all the way baby!		
+			What’s your dream match?	You, me, a rusty cage, some gardening tools & trough of eggs.		
+						
+Date 2:	Mr Piggy	Intro:	Spread em! I'm Mr Piggy!	Evening Officer.		2
+				Get bent bacon!		0
+				Pigs to meet you!		1
+		Question:	I'm looking for a real bad boy! What's your offence!	I body slam men till their hearts break!	Oooooohhh yeah! That's the stuff!	2
+				I don't use steroids.	?! What the? I should lock you up for that!	0
+				I steal moves from other wrestlers.	That's taking it to far! You make me sick!	0
+		Question:	What do you look for in an opponent?	Good mugshot, long rep sheet of dirty deeds.		
+			If you could see me in anything, what would it be?	Handcuffs... and nothing else.		
+			What's your dream match?	Prison cell pillow fight!		
+						
+Date 3:	King Pretty Guy	Intro:	Bow down! King Pretty Guy stands before you!	I'm Honored.		2
+				Hi Guy!		1
+				More like Guy Pretty Ugly!		0
+		Question:	Only the finest men may lay with me! Why should I pick you?	I am a noble knight! Let me challenge you!	Oooh! I propose a vigourous jousting then!	2
+				I'm a filthy peasent! Let me defile you!	You animal!	1
+				I don't care. Puck off, Your Majesty!	How dare you! Unacceptable!	0
+		Question:	What do you look for in an opponent?	A true prince who can match my muscle!		
+			If you could see me in anything, what would it be?	A life of servitude to me.		
+			What’s your dream match?	Myself and a worthy opponent, writhing in a pool of caviar.		
+						
+Date 4:	Radical Ray	Intro:	Hold on to your moonbag! Radical Ray is here to rock ya!	Moonbag fastened!		2
+				Hey hey hey Ray!		1
+				Kill me now.		0
+		Question:	If you bagged a bodacious babe like moi, what would you do with my bod?	Bronco Buster the night away, in the most gnarly way!	Yeah Bro! That sounds tubular!	1
+				Piledriver till  you can't breathe, finish you off with a jack hammer!	Righteous! Cluuuutch move list bra!	2
+				Just some good old fashion wrestling I guess.	Gag me with a spoon! That's totally bogus!	0
+		Question:	What do you look for in an opponent?	Like, a deadly dude with mad muscles and tubular moves!		
+			If you could see me in anything, what would it be?	You need to get with it, if you catch my drift! Where the shades at?		
+			What’s your dream match?	I'd wanna get crazy to the max! No rules! No fear! No clothes!		
+						
+Date 5:	Señor Murder	Intro:	Hola! Today you face death, and his name is Señor Murder!	Hola!		2
+				Hiya!		1
+				Kill me now.		0
+		Question:	¿Cuál fue su momento más apasionado en el ring?	I'm sorry, I don't know what that means.	You fool! It would be my pleasure to end you!	0
+				Mi queso es un helicóptero enojado!	¡¿Qué?!	1
+				Todavía tenemos que luchar , por lo que está por venir!	Take me now!	2
+		Question:	What do you look for in an opponent?	A large heart... that I can silence!		
+			If you could see me in anything, what would it be?	A coffin.		
+			What’s your dream match?	I don't do dreams you idiota! Only nightmares!		
+						
+Date 6:	The Bare Bear	Intro:	Hey handsome! Are you man enough to bear The Bare Bear?!	*blush*		1
+				I don't care Bear.		0
+				Hey hairy!		2
+		Question:	If I gave you a belly to belly suplex, what would you do?	Reversal baby! Turn it around into a rear naked choke!	As if! No man can resist my belly!	1
+				Cry.	AAAAAAGGGGGGGHHHHH!	0
+				Take it like a man, then come back with a strong camel clutch!	Not if I clutch your camel first!	2
+		Question:	What do you look for in an opponent?	A big man. The bigger the better. Sweaty too! The wetter the better!		
+			If you could see me in any outfit, what would it be?	I'm The Bare Bear. Oufits don't do it for me.		
+			What’s your dream match?	Mud Wrestling, followed by a long hose down!		
+						
+Date 7:	Da Dweeb	Intro:	Hey buddy! Ready to get funkeeee wit Da Dweeb?	Uh...		1
+				You look like garbage brought to life.		0
+				Salutations Sir!		2
+		Question:	We're on the periodic table, I'm oxygen, what element are you?	... Table? Smash you through it!	Is that meant to be funny! Not even close!	0
+				Hydrogen! We could get together and make things wet!	HAHAHA! Oh! My! Soul!	1
+				Oxywhat? You talking fancy talk mister!	You sir, are an ignoramus!	2
+		Question:	What do you look for in an opponent?	I wish for someone as cool as me. As if that's possible...		
+			If you could see me in anything, what would it be?	Myself.		
+			What’s your dream match?	Dreams are but an illusion!		
+						
+Date 8:	Freakshow	Intro:	Gurk.  	Uh... Hi?		2
+				What the?! What are you?!		0
+				Gurk.		1
+		Question:	Grrr hict gbruahg.	Ummmm... Piledriver?	Gbruahg! Gurk Gurk GBRUAHG!	0
+				Spicy ones! With Gravy!	Hu Hur Hur! Meatballen!	2
+				Obbkjdbuedajdj bkdhkbhvavy.	... Blerk.	0
+		Question:	What do you look for in an opponent?	His heart!		
+			If you could see me in anything, what would it be?	A vat of ooze!		
+			What’s your dream match?	Shlimepit! Pit! Pit!		
+						
+Date 9:	Stoney	Intro:	Finally! Stoney has come back to Cuddle Town!	Sup Stones?!		1
+				Let's rock Stoney!		2
+				Nope!		0
+		Question:	Stoney wants to know; can you smell what Stoney is cooking?	Yes! Smells great!	Stoney thinks so too!	1
+				Yes. I think I'm going to be sick.	Whaaaaaa?!?	0
+				Yes! Smells like the People's Croissant! I want a bite!	Hehe! Doesn't everyone?	2
+		Question:	What do you look for in an opponent?	Stoney looks for a hard man!		
+			If you could see me in anything, what would it be?	Stoney would want to see caked in volcanic ash.		
+			What’s your dream match?	Stoney's Stoner Stone-throwing Stone Zone.		
+						
+Date 10	Senor Sunshine	Intro:	Hola! Today you face death, and his name is Señor Sunshine!	Hola!		1
+				Why would anyone make you?		0
+				Hug me now.		2
+		Question:	¿Tiene mascotas?	I'm sorry, I don't know what that means.	You fool! I will smother you to death!	0
+				Mis pantalones huelen a basura.	¡¿Qué?!	1
+				Quiero hacer que mi mascota.	Stroke me and let's see how it goes!	2
+		Question:	What do you look for in an opponent?	Strong cuddle-factor!		
+			If you could see me in anything, what would it be?	Covered in honey and pink gliter!		
+			What’s your dream match?	Wrestling in giant panda suits!		
+						
+Date 11	Jake The Gerbil	Intro:	Greetings human! I'm Jake the Gerbil!	Hi Jake!		1
+				Cuuuuuute!		2
+				Wait; is this the man or gerbil speaking here?		0
+		Question:	What's your policy on pets?	I love them! Little friends are always welcome in the ring!	Sounds like this might work!	2
+				No pets allowed!	Well then! No DDT for you!	0
+				If they play well with my cat they're okay!	I don't think this is going to work	0
+		Question:	What do you look for in an opponent?	Good nuts.		
+			If you could see me in anything, what would it be?	Hamster suit.		
+			What’s your dream match?	You, me, and a jar of mixed seeds and nuts.		
+						
+Choice time:	Manny McMan		Times up! Well there you had it! 8 wonderful wrestler! 8 potential matches! But there can be only one! Who will it be? Let's find out! Who were your three favorites dates??			
+	Menu		Favourite select			
+	A fine choice! Now let's see what they thought of you!					
+	Play score screen		Show scores - highlight date			
+						
+End cutscene						
+credits						

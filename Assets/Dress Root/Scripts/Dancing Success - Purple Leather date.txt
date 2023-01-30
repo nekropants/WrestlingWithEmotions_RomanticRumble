@@ -1,0 +1,25 @@
+Greeting:	
+Player option:	Date response:
+Hey.	Hi.
+Sup?	Uhhhhhmm.. yo?
+Don't I know you from somewhere?	Yeah! We met at that Holy Space Apes gig right?
+Offer:	
+Yeah... would you like a drink?	Thanks! Booze! My favourite!
+...	This party's pretty rad!
+This place is pretty loud...	Sorry, what was that?
+Compliment:	
+I like your hair.	Thanks! Cut it myself!
+I have those same shoes! I love them!	Aren't they the best?!
+I like your accent! Estonian?	Totally! Well spotted!
+Date question:	
+Came here alone. Hoping to meet some cool people.	Who are you here with?
+I have friends! Lots of friends!	
+Actually... I have no friends... At all.	
+Song changes:	
+Uggh! This song is the worst!	This is my favourite song! Lets dance!
+What's with this music?	This is my favourite song! Lets dance!
+Wanna find someplace quiter?	This is my favourite song! Lets dance!
+Dance?	
+Errrr... dance?	YEAH!
+I'd really rather not.	Oh, come on!
+I don't dance.	Don't be silly! everyone can dance!

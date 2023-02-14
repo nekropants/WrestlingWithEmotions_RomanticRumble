@@ -31,7 +31,7 @@ public class AudioController : MonoBehaviour
             {
                 sources.RemoveAt(i);
             }
-            if (sources[i].isPlaying == false)
+            else if (sources[i].isPlaying == false)
             {
                 return sources[i];
             }

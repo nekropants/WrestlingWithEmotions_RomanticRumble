@@ -26,6 +26,7 @@ public class AudioSequence : MonoBehaviour {
         source.loop = false;
         source.Play();
         
+        Debug.Log("play trailer sound");
 
         yield return new WaitForSeconds(intro.length);
         StopAmbience();
@@ -34,6 +35,8 @@ public class AudioSequence : MonoBehaviour {
         source.clip = loop;
         source.loop = true;
         source.Play();
+        
+        Debug.Log("play trailer sound");
 
     }
 

@@ -2,7 +2,7 @@ Visuals:	Character:	Section:	Text:	Responses	Date response:	Points
 Title screen	NA		Wrestling with Emotions: Quest for the perfect match			
 						
 Intro screen	Manny McMan	Intro:	Good evening everybody! I'm your host; MC Manny McMan!	Well you've seen all of the dreamy options! 		
-			Get ready for the ride of your life, as you speed date your way through 8 fighters in your quest for the perfect match!	Now It's time to choose your favourites!		
+			Get ready for the ride of your life, as you speed date your way through 6 fighters in your quest for the perfect match!	Now It's time to choose your favourites!		
 			Will you find the opponent of your dreams? 	Its a tough choice! But remember: you can only choose three!		
 			Or leave the ring unsatisfied? 	Fantastic! Now lets see what your dates think of you!		
 			Let's find out!	Looks like we have a match!!		
@@ -96,7 +96,7 @@ Date 9:	Stoney	Intro:	Finally! Stoney has come back to Cuddle Town!	Sup Stones?!
 				Yes. I think I'm going to be sick.	Whaaaaaa?!?	0
 				Yes! Smells like the People's Croissant! I want a bite!	Hehe! Doesn't everyone?	2
 		Question:	What do you look for in an opponent?	Stoney looks for a hard man!		
-			If you could see me in anything, what would it be?	Stoney would want to see caked in volcanic ash.		
+			If you could see me in anything, what would it be?	Stoney would want to see you caked in volcanic ash.		
 			What’s your dream match?	Stoney's Stoner Stone-throwing Stone Zone.		
 						
 Date 10	Senor Sunshine	Intro:	Hola! Today you face death, and his name is Señor Sunshine!	Hola!		1
@@ -104,9 +104,9 @@ Date 10	Senor Sunshine	Intro:	Hola! Today you face death, and his name is Señor
 				Hug me now.		2
 		Question:	¿Tiene mascotas?	I'm sorry, I don't know what that means.	You fool! I will smother you to death!	0
 				Mis pantalones huelen a basura.	¡¿Qué?!	1
-				Quiero hacer que mi mascota.	Stroke me and let's see how it goes!	2
+				Quiero que seas mi mascota.	Stroke me and let's see how it goes!	2
 		Question:	What do you look for in an opponent?	Strong cuddle-factor!		
-			If you could see me in anything, what would it be?	Covered in honey and pink gliter!		
+			If you could see me in anything, what would it be?	Covered in honey and pink glitter!		
 			What’s your dream match?	Wrestling in giant panda suits!		
 						
 Date 11	Jake The Gerbil	Intro:	Greetings human! I'm Jake the Gerbil!	Hi Jake!		1
@@ -119,7 +119,7 @@ Date 11	Jake The Gerbil	Intro:	Greetings human! I'm Jake the Gerbil!	Hi Jake!		1
 			If you could see me in anything, what would it be?	Hamster suit.		
 			What’s your dream match?	You, me, and a jar of mixed seeds and nuts.		
 						
-Choice time:	Manny McMan		Times up! Well there you had it! 8 wonderful wrestler! 8 potential matches! But there can be only one! Who will it be? Let's find out! Who were your three favorites dates??			
+Choice time:	Manny McMan		Times up! Well there you had it! 6 wonderful wrestler! 6 potential matches! But there can be only one! Who will it be? Let's find out! Who were your three favorites dates??			
 	Menu		Favourite select			
 	A fine choice! Now let's see what they thought of you!					
 	Play score screen		Show scores - highlight date			

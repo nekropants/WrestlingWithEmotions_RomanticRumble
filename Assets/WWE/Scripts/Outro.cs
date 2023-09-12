@@ -20,11 +20,11 @@ public class Outro : MonoBehaviour
             Timer -= Time.deltaTime;
 	        return;
 	    }
-
-	    if (Input.GetKeyDown(KeyCode.Mouse0))
-	    {
-            SceneManager.LoadScene(0);   
-	    }
+     //
+	    // if (Input.GetKeyDown(KeyCode.Mouse0))
+	    // {
+     //        SceneManager.LoadScene(0);   
+	    // }
 	
 	}
 }

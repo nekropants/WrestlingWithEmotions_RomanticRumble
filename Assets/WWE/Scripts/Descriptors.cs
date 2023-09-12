@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Descriptors : MonoBehaviour {
 
 
-	public static string [] randomDescriptors = {"Handsome", "Pretty", "Hardcore", "Lame", "Droll", "Beautiful", "Heart pulpitating", "WTF...", "Smells Good", "Shiny",
+	public static string [] randomDescriptors = {"Handsome", "Pretty", "Hardcore", "Droll", "Beautiful", "Heart palpitating", "WTF...", "Smells Good", "Shiny",
 	"Thoughtful", "Eloquent", "Uhh...","Nice Eyes", "Good Biceps", "Trite", "Funny", "Gentle", "Rough Rider", "XFactor", "Clammy", "Self Assured", "Charming", "Kid Friendly"};
 	
 	public static int RandomSeed = 0;

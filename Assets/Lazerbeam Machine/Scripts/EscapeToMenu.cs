@@ -12,6 +12,7 @@ public class EscapeToMenu : MonoBase {
 	void Update () {
 		
 		
+		return;
 		inputTimer -= Time.deltaTime;
 		if( AnyInputDown )
 		{

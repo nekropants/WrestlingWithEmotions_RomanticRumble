@@ -26,8 +26,8 @@ namespace WWE
         {
 
             Vector3 target = defaultPos;
-            if (Input.GetKeyDown(KeyCode.Space) && Application.isEditor)
-                lookDown = !lookDown;
+            // if (Input.GetKeyDown(KeyCode.Space) && Application.isEditor)
+            //     lookDown = !lookDown;
 
             if (lookDown)
             {

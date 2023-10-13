@@ -32,6 +32,7 @@ public float duration =2;
 
     public void Switch()
     {
+	    Debug.Log("Switch");
         gameObject.SetActive(false);
         interior.SetActive(true);
 

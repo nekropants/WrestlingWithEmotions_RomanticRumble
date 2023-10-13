@@ -8,29 +8,41 @@ public class CallActionToAction : MonoBehaviour
 {
     private float scale =1;
 
+    public GameObject _mouseOverEffects;
 
+    [SerializeField] private bool _openLink = false;  
     private IEnumerator Start()
     {
+        _mouseOverEffects.gameObject.SetActive(false);
+
         yield return new WaitForSeconds(90);
-        
-        SceneManager.LoadScene(0);
     }
 
     private void OnMouseOver()
     {
         scale =1.2f;
-
+        _mouseOverEffects.gameObject.SetActive(true);
     }
 
     private void OnMouseExit()
     {
         scale =1;
+        _mouseOverEffects.gameObject.SetActive(false);
+
     }
 
     private void OnMouseDown()
     {
         scale = 0.7f;
-        OpenLink();
+
+        if (_openLink)
+        {
+            OpenLink();
+        }
+        else
+        {
+            SceneManager.LoadScene(0);
+        }
     }
     
     
@@ -71,9 +83,6 @@ public class CallActionToAction : MonoBehaviour
     public void Update()
     {
         transform.localScale = Vector3.one*scale;
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            SceneManager.LoadScene(0);
-        }
+     
     }
 }
